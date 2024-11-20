@@ -1,0 +1,9 @@
+CZE;ITA;200;{"route":["CZE","AUT","ITA"]}
+ITA;POL;200;{"route":["ITA","AUT","CZE","POL"]}
+ESP;RUS;200;{"route":["ESP","FRA","DEU","POL","RUS"]}
+ZMB;RUS;200;{"route":["ZMB","COD","CAF","SDN","EGY","ISR","SYR","TUR","AZE","RUS"]}
+BWA;CHN;200;{"route":["BWA","ZMB","COD","CAF","SDN","EGY","ISR","JOR","IRQ","IRN","AFG","CHN"]}
+ZAF;IND;200;{"route":["ZAF","BWA","ZMB","COD","CAF","SDN","EGY","ISR","JOR","IRQ","IRN","PAK","IND"]}
+ZAF;SWE;200;{"route":["ZAF","BWA","ZMB","COD","CAF","SDN","EGY","ISR","SYR","TUR","AZE","RUS","FIN","SWE"]}
+CZE;JPN;400;No land route found
+CZE;AAA;400;No land route found
